@@ -4,6 +4,9 @@ console.log ('This is readrs website, you are welcome');
 var booksweek=prompt('please enter how many pages you read in one week usually? ');
 
 var booksmonth=prompt('please enter how many books you read in one month? ');
+challenge ();
+dontworry ();
+
 
 function reading (){
 var booksyear = booksmonth*12;
@@ -19,14 +22,14 @@ reading ();
     }
   
 }
-challenge ();
 
 function dontworry () {
   if (booksmonth <5 && booksweek <20){
     alert ('dont worry you can buy any books you need from Readers!');
   }
 }
-dontworry ();
+
+
 
 
 // if (booksyear>5)

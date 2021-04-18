@@ -1,0 +1,38 @@
+h1 {
+  text-align: center;
+  color: Brown;
+
+}
+body {
+  background: beige;
+}
+a {
+  text-decoration: none;
+}
+li {
+  margin: 130px;
+  color: brown;
+  border: 1px solid brown;
+  display: inline-block;
+}
+.text {
+  color: brown;
+    font: small-caption;
+border-style: double;
+}
+
+
+img{
+  width: 200px;
+}
+#rights {
+  font-size: 50 px;
+  font-style: italic;
+}
+
+#one {
+  left: 0px;
+  margin: -20px;
+  width: 100px;
+  align-items: inherit
+}
